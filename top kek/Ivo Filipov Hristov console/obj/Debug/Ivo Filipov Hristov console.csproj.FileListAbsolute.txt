@@ -1,0 +1,6 @@
+C:\Users\Headbanga\Desktop\SOFT UNI\Ivo Filipov Hristov console\Ivo Filipov Hristov console\bin\Debug\Ivo Filipov Hristov console.exe.config
+C:\Users\Headbanga\Desktop\SOFT UNI\Ivo Filipov Hristov console\Ivo Filipov Hristov console\bin\Debug\Ivo Filipov Hristov console.exe
+C:\Users\Headbanga\Desktop\SOFT UNI\Ivo Filipov Hristov console\Ivo Filipov Hristov console\bin\Debug\Ivo Filipov Hristov console.pdb
+C:\Users\Headbanga\Desktop\SOFT UNI\Ivo Filipov Hristov console\Ivo Filipov Hristov console\obj\Debug\Ivo Filipov Hristov console.csprojResolveAssemblyReference.cache
+C:\Users\Headbanga\Desktop\SOFT UNI\Ivo Filipov Hristov console\Ivo Filipov Hristov console\obj\Debug\Ivo Filipov Hristov console.exe
+C:\Users\Headbanga\Desktop\SOFT UNI\Ivo Filipov Hristov console\Ivo Filipov Hristov console\obj\Debug\Ivo Filipov Hristov console.pdb
