@@ -1,2 +1,4 @@
 # exercise
 1
+
+UGHHH CYKA BLYAT IDI NAHUY
