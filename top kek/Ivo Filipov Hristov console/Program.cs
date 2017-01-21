@@ -10,7 +10,7 @@ namespace Ivo_Filipov_Hristov_console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(":P");
+            Console.WriteLine(":P agsdfs");
             Console.WriteLine("Waiting for input: ");
             string input;
             input = Console.ReadLine();
