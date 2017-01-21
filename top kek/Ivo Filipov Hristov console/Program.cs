@@ -10,13 +10,15 @@ namespace Ivo_Filipov_Hristov_console
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(":P");
             Console.WriteLine("Waiting for input: ");
             string input;
             input = Console.ReadLine();
             input = input.ToUpper();
             input = input.Replace(" ", "");
             char[] array = input.ToArray();
-            Array.Sort(array);       
+            Array.Sort(array);    
+               
            
             Dictionary<char, int> dictionary = new Dictionary<char, int>();
             foreach (var count in array)
