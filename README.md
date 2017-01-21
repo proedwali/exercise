@@ -1,4 +1,3 @@
 # exercise
 1
-
-UGHHH CYKA BLYAT IDI NAHUY
+I have idi I have nahuy ughhhhh conflict.

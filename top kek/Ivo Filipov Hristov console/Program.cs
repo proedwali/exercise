@@ -10,7 +10,7 @@ namespace Ivo_Filipov_Hristov_console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(":P I have a blyat");
+            Console.WriteLine(":P I have a cyka");
             Console.WriteLine("Waiting for input: ");
             string input;
             input = Console.ReadLine();
